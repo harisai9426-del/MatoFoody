@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Order Success</title>
+</head>
+<body>
+
+<h1>Order Placed Successfully</h1>
+
+<a href="restaurants.jsp">
+Continue Shopping
+</a>
+
+</body>
+</html>
